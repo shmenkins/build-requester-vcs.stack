@@ -1,6 +1,0 @@
-neovim
-boto3
-pytest
-mock
-tox
-shmenkins

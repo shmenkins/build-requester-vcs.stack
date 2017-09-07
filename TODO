@@ -1,7 +1,0 @@
-I want to build shmenkins using shmenkins
-    trigger build when code/dependency changes
-        github trigger
-            setup push hook
-    build code (make artifact)
-        aws codebuild 
-            create buildspec.yml
