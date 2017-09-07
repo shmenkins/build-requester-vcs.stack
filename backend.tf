@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    key = "webhook-api.tfstate"
+    key = "build-requester-vcs.tfstate"
     region = "us-west-2"
   }
 }
